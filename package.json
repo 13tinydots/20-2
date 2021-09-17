@@ -24,7 +24,8 @@
     ],
     "rules": {
       "capitalized-comments": "off",
-      "react/react-jsx-in-scope": "off"
+      "react/react-jsx-in-scope": "off",
+      "no-unused-vars": "warn"
     }
   },
   "browserslist": {
